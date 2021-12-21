@@ -23,7 +23,7 @@ setTimeout(()=>{
                                            setTimeout(()=>{
                                                div.innerHTML=0
                                                setTimeout(()=>{
-                                                   div.innerHTML='many more happy return of the mahitha my darling bestie';
+                                                   div.innerHTML='many more happy return of the day mahitha my darling bestie';
                                                },1000)
                                            },1000)
                                        },1000)
