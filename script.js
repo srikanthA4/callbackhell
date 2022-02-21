@@ -75,7 +75,7 @@ ten(() => {
                               two(() => {
                                   one(() => {
                                       setTimeout(() =>{
-                                          document.getElementById("myid").innerHTML = "Happy Independence Day";
+                                          document.getElementById("myid").innerHTML = "well come full stack developer world";
                                       }, 2000);                                        
                                   })
                               })
