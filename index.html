@@ -1,30 +1,35 @@
 
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Timer</title>
+    <title>Document</title>
     <style>
-       #timer{
-           width: 100%;
-           height: 100%;
+       body{
            text-align: center;
-           text-size:50px
-           text-color:red;    
-           
-       }
-
+            margin: auto;
+            background:white;
+            color: blue;
+            justify-content: center;
+            
+        }
+        p{
+            border: px;
+            border: 1px solid white;
+            font-size: 150px;
+            background-color: rgba(226, 218, 218, 0.11);
+        }
+        @media screen and (max-width: 1080px) {
+            p{
+                font-size: 40px;
+            }
+        }
     </style>
 </head>
-
 <body>
-    <div class="container">
-        <h1 id="timer"></h1>
-    </div>
-   
-    <script src="script.js"></script>
+    <p id="myid"></p>
 </body>
-
+<script src="script.js"></script>
 </html>
