@@ -75,7 +75,7 @@ ten(() => {
                               two(() => {
                                   one(() => {
                                       setTimeout(() =>{
-                                          document.getElementById("myid").innerHTML = "well come full stack developer world";
+                                          document.getElementById("myid").innerHTML = "many more happy return of the day  manasa reddy garu  be happy with lots of love❤️❤️❤️❤️ and blessings🙌🙌🙌 from your parents 👨‍👩‍👦‍👦👨‍👩‍👦‍👦👨‍👩‍👦‍👦 and be happy this birthday with your lovely friends i hope this birthday will make more fun and better than past days   ";
                                       }, 2000);                                        
                                   })
                               })
