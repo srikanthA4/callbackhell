@@ -75,8 +75,8 @@ ten(() => {
                               two(() => {
                                   one(() => {
                                       setTimeout(() =>{
-                                          document.getElementById("myid").innerHTML = "Many More Happie returns of the day bhargavi(🍞+☕) reddy be happy with lots of love❤️❤️❤️❤️ and blessings🙌🙌🙌 from your parents 👨‍👩‍👦‍👦👨‍👩‍👦‍👦👨‍👩‍👦‍👦 and be happy this birthday with your lovely friends i hope this birthday will make more fun and better than past days   ";
-                                      }, 2000);                                        
+                                          document.getElementById("myid").innerHTML = "Many More Happie return of the day Ansh be happy with lots of love❤️❤️❤️❤️ and blessings🙌🙌🙌  ";
+                                     }, 2000);                                        
                                   })
                               })
                           })
