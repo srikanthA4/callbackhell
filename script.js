@@ -75,7 +75,7 @@ ten(() => {
                               two(() => {
                                   one(() => {
                                       setTimeout(() =>{
-                                          document.getElementById("myid").innerHTML = "Many More Happie return of the day Ansh be happy with lots of love❤️❤️❤️❤️ and blessings🙌🙌🙌  ";
+                                          document.getElementById("myid").innerHTML = "Many       More    Happie    return     of     the        day    Ansh   be     happy      with       lots      of      love❤️❤️❤️❤️      and        blessings🙌🙌🙌    ";
                                      }, 2000);                                        
                                   })
                               })
