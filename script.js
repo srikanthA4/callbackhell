@@ -75,7 +75,7 @@ ten(() => {
                               two(() => {
                                   one(() => {
                                       setTimeout(() =>{
-                                          document.getElementById("myid").innerHTML = "Many  More  Happie return  of  the   day Saiteja(kasai - sai kadu ra vedu kasai) be  happy  with   lots  of  love❤️❤️❤️❤️   and  f❤️❤️king blessings🙌🙌🙌 from your useless friends and be happy this  f❤️❤️king birthday and be ready to f❤️❤️k everybody who hates you from now-on-wards expect(basha,yashu,saketh,venki) ";
+                                          document.getElementById("myid").innerHTML = "Many  More  Happie return basha ";
                                      }, 2000);                                        
                                   })
                               })
